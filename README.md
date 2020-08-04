@@ -1,2 +1,2 @@
-# Angry-birds-stage-7-Harshil-Shah
-adding trajectory to bird
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
